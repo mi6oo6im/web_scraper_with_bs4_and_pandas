@@ -1,4 +1,4 @@
-# web_scraper_with_bs4_and_pandas
+# Web scraper with Beutiful Soup and Pandas Python libraries
 
 ### Project objectives:
 Scrape table from Wikipedia page, create Pandas data frame and generage CSV file.
